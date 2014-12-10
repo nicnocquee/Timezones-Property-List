@@ -1,0 +1,5640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Abidjan, Cote d'Ivoire (Ivory Coast)</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Abu Dhabi, Abu Dhabi, United Arab Emirates</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GST</string>
+		<key>timezone_name</key>
+		<string>Asia/Dubai</string>
+		<key>timezone_offset</key>
+		<integer>14400</integer>
+	</dict>
+	<key>Abuja, Nigeria</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Lagos</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Acapulco, Guerrero, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Accra, Ghana</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Adak, Alaska, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>HAST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Adamstown, Pitcairn Islands</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Addis Ababa, Ethiopia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Adelaide, South Australia, Australia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ACDT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Aden, Yemen</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Agra, Uttar Pradesh, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Aguascalientes, Aguascalientes, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Ahmedabad, Gujarat, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Akron, Ohio, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Al Jizah, Egypt</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Albany, New York, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Albuquerque, New Mexico, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Alert, Nunavut Territory, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Alexandria, Egypt</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Algiers, Algeria</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Alice Springs, Northern Territory, Australia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ACST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Almaty, Kazakhstan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ALMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Alofi, Niue</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>NUT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Amman, Jordan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Amsterdam Island, French Southern Territories, France</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>TFT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Amsterdam, Netherlands</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Amur, on, Komsomolsk, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>VLAT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Anadyr, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ANAT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Anantapur, Andhra Pradesh, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Anchorage, Alaska, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AKST</string>
+		<key>timezone_name</key>
+		<string>America/Juneau</string>
+		<key>timezone_offset</key>
+		<integer>-32400</integer>
+	</dict>
+	<key>Andorra La Vella, Andorra</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Angra do Heroísmo, Azores, Portugal</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AZOT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Ankara, Turkey</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Annapolis, Maryland, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Anshan, Liaoning, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Antananarivo, Madagascar</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Apia, Samoa</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Aqtobe, Kazakhstan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AQTT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Ashgabat, Turkmenistan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>TMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Asmara, Eritrea</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Astana, Kazakhstan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ALMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Asuncion, Paraguay</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PYST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Athens, Greece</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Atlanta, Georgia, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Auckland, New Zealand</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>NZDT</string>
+		<key>timezone_name</key>
+		<string>Pacific/Auckland</string>
+		<key>timezone_offset</key>
+		<integer>46800</integer>
+	</dict>
+	<key>Augusta, Maine, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Austin, Texas, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Baghdad, Iraq</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Bahawalpur, Pakistan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PKT</string>
+		<key>timezone_name</key>
+		<string>Asia/Karachi</string>
+		<key>timezone_offset</key>
+		<integer>18000</integer>
+	</dict>
+	<key>Baker Lake, Nunavut Territory, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Baku, Azerbaijan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AZT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Balikpapan, East Kalimantan, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WITA</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Baltimore, Maryland, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Bamako, Mali</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Bandar Seri Begawan, Brunei</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>BNT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Bandung, West Java, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WIB</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Bangalore, Karnataka, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Bangkok, Thailand</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ICT</string>
+		<key>timezone_name</key>
+		<string>Asia/Bangkok</string>
+		<key>timezone_offset</key>
+		<integer>25200</integer>
+	</dict>
+	<key>Bangui, Central African Republic</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Lagos</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Banjul, Gambia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Baotou, Inner Mongolia, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Barcelona, Barcelona, Spain</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Barnaul, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>OMST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Basseterre, Saint Kitts and Nevis</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Baton Rouge, Louisiana, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Beijing, Beijing Municipality, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Beirut, Lebanon</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Belfast, Northern Ireland, United Kingdom</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Belgrade, Serbia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Belmopan, Belize</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Belushya Guba, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MSK</string>
+		<key>timezone_name</key>
+		<string>Europe/Moscow</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Belém, Para, Brazil</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>BRT</string>
+		<key>timezone_name</key>
+		<string>America/Sao_Paulo</string>
+		<key>timezone_offset</key>
+		<integer>-7200</integer>
+	</dict>
+	<key>Bengkulu, Bengkulu, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WIB</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Berlin, Berlin, Germany</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Bern, Bern, Switzerland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Bethlehem, West Bank</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Bhubaneshwar, Orissa, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Billings, Montana, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Birmingham, England, United Kingdom</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Bishkek, Kyrgyzstan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>KGT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Bismarck, North Dakota, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Bissau, Bissau, Guinea</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Bogota, Colombia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>COT</string>
+		<key>timezone_name</key>
+		<string>America/Bogota</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Boise, Idaho, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Boston, Massachusetts, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Brampton, Ontario, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Brasilia, Distrito Federal, Brazil</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>BRST</string>
+		<key>timezone_name</key>
+		<string>America/Sao_Paulo</string>
+		<key>timezone_offset</key>
+		<integer>-7200</integer>
+	</dict>
+	<key>Bratislava, Slovakia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Brazzaville, Congo</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Lagos</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Bridgetown, Barbados</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Brisbane, Queensland, Australia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AEST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Brussels, Belgium</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Bucharest, Romania</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Budapest, Hungary</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Buenos Aires, Argentina</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ART</string>
+		<key>timezone_name</key>
+		<string>America/Argentina/Buenos_Aires</string>
+		<key>timezone_offset</key>
+		<integer>-10800</integer>
+	</dict>
+	<key>Bujumbura, Burundi</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Harare</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Bursa, Turkey</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Busan, South Korea</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>KST</string>
+		<key>timezone_name</key>
+		<string>Asia/Seoul</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Cairns, Queensland, Australia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AEST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Cairo, Egypt</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Calgary, Alberta, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Cali, Colombia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>COT</string>
+		<key>timezone_name</key>
+		<string>America/Bogota</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Canberra, Australian Capital Territory, Australia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AEDT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Cape Town, South Africa</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SAST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Caracas, Venezuela</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>VET</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Cardiff, Wales, United Kingdom</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Carson City, Nevada, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Casablanca, Morocco</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WET</string>
+		<key>timezone_name</key>
+		<string>Europe/Lisbon</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Castries, Saint Lucia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Cayenne, French Guiana</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GFT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Changchun, Jilin, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Changde, Hunan, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Changsha, Hunan, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Charleston, West Virginia, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Charlotte, North Carolina, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Chatham Islands, Chatham Islands, New Zealand</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CHADT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Chelyabinsk, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>YEKT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Chengdu, Sichuan, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Chennai, Tamil Nadu, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Cheyenne, Wyoming, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Chibougamau, Quebec, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Chicago, Illinois, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Chihuahua, Chihuahua, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Chisinau, Moldova</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Chita, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IRKT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Chittagong, Bangladesh</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>BST</string>
+		<key>timezone_name</key>
+		<string>Europe/London</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Chongqing, Chongqing Municipality, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Cincinnati, Ohio, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Ciudad Juárez, Chihuahua, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Cleveland, Ohio, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Colombo, Sri Lanka</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Columbia, South Carolina, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Columbus, Ohio, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Conakry, Guinea</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Concord, New Hampshire, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Copenhagen, Denmark</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Córdoba, Córdoba, Argentina</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ART</string>
+		<key>timezone_name</key>
+		<string>America/Argentina/Buenos_Aires</string>
+		<key>timezone_offset</key>
+		<integer>-10800</integer>
+	</dict>
+	<key>Córdoba, Spain</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Daegu, South Korea</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>KST</string>
+		<key>timezone_name</key>
+		<string>Asia/Seoul</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Dakar, Senegal</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Dalian, Liaoning, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Dallas, Texas, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Damascus, Syria</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Danmarkshavn, Greenland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Dar es Salaam, Tanzania</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Darwin, Northern Territory, Australia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ACST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Davao, Philippines</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PHT</string>
+		<key>timezone_name</key>
+		<string>Asia/Manila</string>
+		<key>timezone_offset</key>
+		<integer>28800</integer>
+	</dict>
+	<key>Delhi, Delhi, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Denis, Saint, Reunion (French)</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>RET</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Denpasar, Bali, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WITA</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Denver, Colorado, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Des Moines, Iowa, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Detroit, Michigan, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Dhaka, Bangladesh</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>BST</string>
+		<key>timezone_name</key>
+		<string>Europe/London</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Diego Garcia, British Indian Ocean Territory</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IOT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Dili, Leste, Timor</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>TLT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Djibouti, Djibouti</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Dodoma, Tanzania</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Doha, Qatar</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Douglas, Isle of Man</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Dover, Delaware, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Dubai, Dubai, United Arab Emirates</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GST</string>
+		<key>timezone_name</key>
+		<string>Asia/Dubai</string>
+		<key>timezone_offset</key>
+		<integer>14400</integer>
+	</dict>
+	<key>Dublin, Ireland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Durban, South Africa</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SAST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Dushanbe, Tajikistan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>TJT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Düsseldorf, Westphalia, North Rhine, Germany</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Easter Island, Chile</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EASST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Edinburgh, Scotland, United Kingdom</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Edmonton, Alberta, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>El Aaiún, Western Sahara</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WET</string>
+		<key>timezone_name</key>
+		<string>Europe/Lisbon</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>El Paso, Texas, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Eucla, Western Australia, Australia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ACWST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Eureka, Nunavut Territory, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Fairbanks, Alaska, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AKST</string>
+		<key>timezone_name</key>
+		<string>America/Juneau</string>
+		<key>timezone_offset</key>
+		<integer>-32400</integer>
+	</dict>
+	<key>Faisalabad, Pakistan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PKT</string>
+		<key>timezone_name</key>
+		<string>Asia/Karachi</string>
+		<key>timezone_offset</key>
+		<integer>18000</integer>
+	</dict>
+	<key>Fakaofo, Tokelau, Tokelau</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>TKT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Fargo, North Dakota, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Fayetteville, North Carolina, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Fes, Morocco</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WET</string>
+		<key>timezone_name</key>
+		<string>Europe/Lisbon</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Foochow, Fujian, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Fortaleza, Ceará, Brazil</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>BRT</string>
+		<key>timezone_name</key>
+		<string>America/Sao_Paulo</string>
+		<key>timezone_offset</key>
+		<integer>-7200</integer>
+	</dict>
+	<key>Foshan, Guangdong, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Francais, aux, Port, Kerguelen Islands</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>TFT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>France, de, Fort, Martinique</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Frankfort, Kentucky, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Frankfurt, Hesse, Germany</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Freetown, Sierra Leone</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Fresno, California, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Fukuoka, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Funafuti, Tuvalu</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>TVT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Fushun, Liaoning, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Gaborone, Botswana</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Harare</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Galapagos Islands, Ecuador</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GALT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Gaza, Gaza Strip</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>General Santos, Philippines</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PHT</string>
+		<key>timezone_name</key>
+		<string>Asia/Manila</string>
+		<key>timezone_offset</key>
+		<integer>28800</integer>
+	</dict>
+	<key>Geneva, Geneva, Switzerland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>George Town, Cayman Islands</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Georgetown, Guyana</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GYT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Gibraltar, Gibraltar</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Glasgow, Scotland, United Kingdom</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Goose Bay, Happy Valley, Newfoundland and Labrador, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Gorontalo, Gorontalo, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WITA</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Grise Fiord, Nunavut Territory, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Guadalajara, Jalisco, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Guangzhou, Guangdong, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Guatemala, Guatemala</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Guayaquil, Ecuador</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ECT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Guiyang, Guizhou, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Gujranwala, Pakistan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PKT</string>
+		<key>timezone_name</key>
+		<string>Asia/Karachi</string>
+		<key>timezone_offset</key>
+		<integer>18000</integer>
+	</dict>
+	<key>Hagåtña, Guam</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ChST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Hai Phong, Vietnam</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ICT</string>
+		<key>timezone_name</key>
+		<string>Asia/Bangkok</string>
+		<key>timezone_offset</key>
+		<integer>25200</integer>
+	</dict>
+	<key>Halifax, Nova Scotia, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Hamamatsu, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Hamburg, Hamburg, Germany</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Hamilton, Bermuda</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Hamilton, Ontario, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Hammerfest, Norway</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Hangzhou, Zhejiang, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Hanoi, Vietnam</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ICT</string>
+		<key>timezone_name</key>
+		<string>Asia/Bangkok</string>
+		<key>timezone_offset</key>
+		<integer>25200</integer>
+	</dict>
+	<key>Harare, Zimbabwe</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Harare</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Harbin, Heilongjiang, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Harrisburg, Pennsylvania, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Hartford, Connecticut, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Havana, Cuba</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Helena, Montana, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Helsinki, Finland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Hermosillo, Sonora, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Himeji, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Hiroshima, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Ho Chi Minh, Vietnam</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ICT</string>
+		<key>timezone_name</key>
+		<string>Asia/Bangkok</string>
+		<key>timezone_offset</key>
+		<integer>25200</integer>
+	</dict>
+	<key>Hobart, Tasmania, Australia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AEDT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Home</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Hong Kong, Hong Kong</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>HKT</string>
+		<key>timezone_name</key>
+		<string>Asia/Hong_Kong</string>
+		<key>timezone_offset</key>
+		<integer>28800</integer>
+	</dict>
+	<key>Honiara, Solomon Islands</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SBT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Honolulu, Hawaii, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>HAST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Houston, Texas, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Hovd, Mongolia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>HOVT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Hyderabad, Telangana, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Incheon, South Korea</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>KST</string>
+		<key>timezone_name</key>
+		<string>Asia/Seoul</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Indianapolis, Indiana, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Indore, Madhya Pradesh, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Inuvik, Northwest Territories, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Iqaluit, Nunavut Territory, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Irkutsk, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IRKT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Islamabad, Pakistan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PKT</string>
+		<key>timezone_name</key>
+		<string>Asia/Karachi</string>
+		<key>timezone_offset</key>
+		<integer>18000</integer>
+	</dict>
+	<key>Istanbul, Turkey</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Ittoqqortoormiit, Greenland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EGT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Izmir, Turkey</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Jackson, Mississippi, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Jacksonville, Florida, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Jaipur, Rajasthan, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Jakarta, Jakarta Special Capital Region, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WIB</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Jamestown, Saint Helena</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Jayapura, Papua, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WIT</string>
+		<key>timezone_name</key>
+		<string>Asia/Jakarta</string>
+		<key>timezone_offset</key>
+		<integer>25200</integer>
+	</dict>
+	<key>Jeddah, Saudi Arabia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Jefferson City, Missouri, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Jerusalem, Israel</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Jilin, Jilin, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Jinan, Shandong, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Jinzhou, Liaoning, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Johannesburg, South Africa</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SAST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Juba, South Sudan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Kabul, Afghanistan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AFT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Kagoshima, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Kaliningrad, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Kamchatsky, Petropavlovsk, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PETT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Kampala, Uganda</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Kangerlussuaq, Greenland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WGT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Kano, Nigeria</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Lagos</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Kansas City, Missouri, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Karachi, Sindh, Pakistan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PKT</string>
+		<key>timezone_name</key>
+		<string>Asia/Karachi</string>
+		<key>timezone_offset</key>
+		<integer>18000</integer>
+	</dict>
+	<key>Karaj, Iran</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IRST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tehran</string>
+		<key>timezone_offset</key>
+		<integer>12600</integer>
+	</dict>
+	<key>Kathmandu, Nepal</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>NPT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Kawasaki, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Kazan, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MSK</string>
+		<key>timezone_name</key>
+		<string>Europe/Moscow</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Kemi, Finland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Kendari, South East Sulawesi, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WITA</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Khartoum, Sudan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Khatanga, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>KRAT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Khon Kaen, Thailand</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ICT</string>
+		<key>timezone_name</key>
+		<string>Asia/Bangkok</string>
+		<key>timezone_offset</key>
+		<integer>25200</integer>
+	</dict>
+	<key>Kigali, Rwanda</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Harare</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>King Edward Point, United Kingdom</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GST</string>
+		<key>timezone_name</key>
+		<string>Asia/Dubai</string>
+		<key>timezone_offset</key>
+		<integer>14400</integer>
+	</dict>
+	<key>Kingston, Jamaica</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Kingstown, Saint Vincent and Grenadines</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Kinshasa, Congo Dem.Rep.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Lagos</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Kiritimati, Christmas Island, Kiribati</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>LINT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Kitakyushu, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Kobe, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Kolkata, West Bengal, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Kowloon, Hong Kong</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>HKT</string>
+		<key>timezone_name</key>
+		<string>Asia/Hong_Kong</string>
+		<key>timezone_offset</key>
+		<integer>28800</integer>
+	</dict>
+	<key>Krasnoyarsk, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>KRAT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Kuala Lumpur, Malaysia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MYT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Kumamoto, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Kunming, Yunnan, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Kuujjuaq, Quebec, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Kuwait City, Kuwait</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Kyiv, Ukraine</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Kyoto, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Kãnpur, Uttar Pradesh, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>La Paz, Bolivia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>BOT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Lagos, Nigeria</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Lagos</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Lahore, Pakistan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PKT</string>
+		<key>timezone_name</key>
+		<string>Asia/Karachi</string>
+		<key>timezone_offset</key>
+		<integer>18000</integer>
+	</dict>
+	<key>Lanchow, Gansu, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Lanzhou, Gansu, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Las Vegas, Nevada, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Laval, Quebec, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Leon, Guanajuato, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Lhasa, Tibet, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Libreville, Gabon</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Lagos</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Lilongwe, Malawi</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Harare</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Lima, Lima, Peru</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PET</string>
+		<key>timezone_name</key>
+		<string>America/Lima</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Lincoln, Nebraska, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Lisbon, Portugal</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WET</string>
+		<key>timezone_name</key>
+		<string>Europe/Lisbon</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Little Rock, Arkansas, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Liverpool, England, United Kingdom</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Ljubljana, Slovenia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Lome, Togo</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>London, England, United Kingdom</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>London, Ontario, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Long Beach, California, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Longueuil, Quebec, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Longyearbyen, Svalbard, Norway</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Los Angeles, California, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Louisville, Kentucky, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Luanda, Angola</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Lagos</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Lubumbashi, Congo Dem.Rep.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Harare</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Lucknow, Uttar Pradesh, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Ludhiana, Punjab, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Ludwigsburg, Württemberg, Baden, Germany</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Luoyang, Henan, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Lusaka, Zambia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Harare</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Luxembourg, Luxembourg</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Madison, Wisconsin, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Madrid, Spain</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Madurai, Tamil Nadu, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Magadan, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MAGT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Majuro, Marshall Islands</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MHT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Makassar, South Sulawesi, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WITA</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Makkah, Saudi Arabia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Malabo, Equatorial Guinea</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Lagos</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Malang, Java, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WIB</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Male, Maldives</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MVT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Manado, North Sulawesi, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WITA</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Managua, Nicaragua</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Manama, Bahrain</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Manaus, Amazonas, Brazil</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mandalay, Myanmar</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Manila, Philippines</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PHT</string>
+		<key>timezone_name</key>
+		<string>Asia/Manila</string>
+		<key>timezone_offset</key>
+		<integer>28800</integer>
+	</dict>
+	<key>Manokwari, West Papua, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WIT</string>
+		<key>timezone_name</key>
+		<string>Asia/Jakarta</string>
+		<key>timezone_offset</key>
+		<integer>25200</integer>
+	</dict>
+	<key>Maputo, Mozambique</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Harare</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Marion Island (Prince Edward Islands), South Africa</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Marrakech, Morocco</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WET</string>
+		<key>timezone_name</key>
+		<string>Europe/Lisbon</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Maseru, Lesotho</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SAST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Matsuyama, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Mazatlan, Sinaloa, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Mbabane, Swaziland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SAST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Medan, North Sumatra, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WIB</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Medellin, Colombia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>COT</string>
+		<key>timezone_name</key>
+		<string>America/Bogota</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Medina, Saudi Arabia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Melbourne, Victoria, Australia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AEDT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Melekeok, Palau</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PWT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Memphis, Tennessee, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Mendoza, Mendoza, Argentina</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ART</string>
+		<key>timezone_name</key>
+		<string>America/Argentina/Buenos_Aires</string>
+		<key>timezone_offset</key>
+		<integer>-10800</integer>
+	</dict>
+	<key>Merida, Yucatán, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Mexicali, Baja California, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Mexico City, Federal District, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Miami, Florida, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Midland, Texas, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Midway, Midway Atoll, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Milan, Italy</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Milwaukee, Wisconsin, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Minneapolis, Minnesota, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Minsk, Belarus</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>FET</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mississauga, Ontario, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Mogadishu, Somalia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Monaco, Monaco</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Monrovia, Liberia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Montevideo, Uruguay</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>UYST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Montgomery, Alabama, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Montpelier, Vermont, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Montreal, Quebec, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Moroni, Comoros</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Moscow, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MSK</string>
+		<key>timezone_name</key>
+		<string>Europe/Moscow</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Mudanjiang, Heilongjiang, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Multan, Pakistan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PKT</string>
+		<key>timezone_name</key>
+		<string>Asia/Karachi</string>
+		<key>timezone_offset</key>
+		<integer>18000</integer>
+	</dict>
+	<key>Mumbai, Maharashtra, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Munich, Bavaria, Germany</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Murmansk, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MSK</string>
+		<key>timezone_name</key>
+		<string>Europe/Moscow</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Muscat, Oman</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GST</string>
+		<key>timezone_name</key>
+		<string>Asia/Dubai</string>
+		<key>timezone_offset</key>
+		<integer>14400</integer>
+	</dict>
+	<key>Nagoya, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Nairobi, Kenya</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Nanchang, Jiangxi, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Nanjing, Jiangsu, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Nanning, Guangxi, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Naples, Italy</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Nashville, Tennessee, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Nassau, Bahamas</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Naypyidaw, Myanmar</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Ndjamena, Chad</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Lagos</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>New Delhi, Delhi, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>New Orleans, Louisiana, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>New York, New York, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Newark, New Jersey, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Niamey, Niger</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Lagos</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Nice, France</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Nicosia, Cyprus</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Niigata, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Nizhny Novgorod, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MSK</string>
+		<key>timezone_name</key>
+		<string>Europe/Moscow</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Norilsk, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>KRAT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Nouakchott, Mauritania</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Noumea, New Caledonia, New Caledonia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>NCT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Novgorod, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MSK</string>
+		<key>timezone_name</key>
+		<string>Europe/Moscow</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Novosibirsk, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>NOVT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Nukualofa, Tonga</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>TOT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Nuuk, Greenland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WGT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Nãgpur, Maharashtra, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Oakland, California, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Odesa, Ukraine</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Oklahoma City, Oklahoma, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Omsk, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>OMST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Oral, Kazakhstan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ORAT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Orlando, Florida, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Osaka, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Oslo, Norway</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Ottawa, Ontario, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Ouagadougou, Burkina Faso</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Palangka Raya, Central Kalimantan, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WIB</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Palembang, South Sumatra, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WIB</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Palikir, Ponape, Micronesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PONT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Palma, Majorca, Spain</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Palu, Central Sulawesi, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WITA</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Panama, Panama</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Papeete, Tahiti, French Polynesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>TAHT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Paramaribo, Suriname</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SRT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Paris, France</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Patna, Bihar, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Pensacola, Florida, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Perm, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>YEKT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Perth, Western Australia, Australia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AWST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Petersburg, Saint, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MSK</string>
+		<key>timezone_name</key>
+		<string>Europe/Moscow</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Pevek, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ANAT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Philadelphia, Pennsylvania, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Phnom Penh, Cambodia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ICT</string>
+		<key>timezone_name</key>
+		<string>Asia/Bangkok</string>
+		<key>timezone_offset</key>
+		<integer>25200</integer>
+	</dict>
+	<key>Phoenix, Arizona, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Pierre, South Dakota, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Podgorica, Montenegro</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Polokwane, South Africa</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SAST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Pond Inlet, Nunavut Territory, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Ponta Delgada, Azores, Portugal</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AZOT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Pontianak, West Kalimantan, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WIB</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Port Louis, Mauritius</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MUT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Port Moresby, Papua New Guinea</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PGT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Port Vila, Vanuatu</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>VUT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Port of Spain, Trinidad and Tobago</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Portland, Oregon, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Porto Novo, Benin</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Lagos</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Porto, Portugal</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WET</string>
+		<key>timezone_name</key>
+		<string>Europe/Lisbon</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Prague, Czech Republic</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Praia, Cabo Verde</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CVT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Pretoria, South Africa</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SAST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Prince, au, Port, Haiti</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Pristina, Kosovo</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Providence, Rhode Island, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Puerto Vallarta, Jalisco, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Pune, Maharashtra, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Punta Arenas, Chile</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CLST</string>
+		<key>timezone_name</key>
+		<string>America/Santiago</string>
+		<key>timezone_offset</key>
+		<integer>-10800</integer>
+	</dict>
+	<key>Pyongyang, North Korea</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>KST</string>
+		<key>timezone_name</key>
+		<string>Asia/Seoul</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Qaanaaq, Greenland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WGT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Qiqihar, Heilongjiang, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Quezon, Philippines</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PHT</string>
+		<key>timezone_name</key>
+		<string>Asia/Manila</string>
+		<key>timezone_offset</key>
+		<integer>28800</integer>
+	</dict>
+	<key>Quito, Ecuador</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ECT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Québec, Quebec, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Rabat, Morocco</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WET</string>
+		<key>timezone_name</key>
+		<string>Europe/Lisbon</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Raleigh, North Carolina, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Rapid City, South Dakota, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Rarotonga, Cook Islands</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CKT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Rasht, Iran</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IRST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tehran</string>
+		<key>timezone_offset</key>
+		<integer>12600</integer>
+	</dict>
+	<key>Rawalpindi, Pakistan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PKT</string>
+		<key>timezone_name</key>
+		<string>Asia/Karachi</string>
+		<key>timezone_offset</key>
+		<integer>18000</integer>
+	</dict>
+	<key>Recife, Pernambuco, Brazil</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>BRT</string>
+		<key>timezone_name</key>
+		<string>America/Sao_Paulo</string>
+		<key>timezone_offset</key>
+		<integer>-7200</integer>
+	</dict>
+	<key>Regina, Saskatchewan, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Resolute Bay, Nunavut Territory, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Reykjavik, Iceland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Richmond, Virginia, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Riga, Latvia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Rio Branco, Acre, Brazil</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ACT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Rio de Janeiro, Rio de Janeiro, Brazil</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>BRST</string>
+		<key>timezone_name</key>
+		<string>America/Sao_Paulo</string>
+		<key>timezone_offset</key>
+		<integer>-7200</integer>
+	</dict>
+	<key>Riyadh, Saudi Arabia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Rome, Italy</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Rosario, Santa Fe, Argentina</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ART</string>
+		<key>timezone_name</key>
+		<string>America/Argentina/Buenos_Aires</string>
+		<key>timezone_offset</key>
+		<integer>-10800</integer>
+	</dict>
+	<key>Roseau, Dominica</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Rotterdam, Netherlands</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Rovaniemi, Finland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Rustenburg, South Africa</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SAST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Ryazan, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MSK</string>
+		<key>timezone_name</key>
+		<string>Europe/Moscow</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Sablon, Blanc, Quebec, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Sacramento, California, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Sagamihara, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Saint George's, Grenada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Saint John's, Antigua and Barbuda</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Saint John, New Brunswick, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Sakhalinsk, Yuzhno, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SAKT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Salem, Oregon, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Salt Lake City, Utah, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Salvador, Bahia, Brazil</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>BRT</string>
+		<key>timezone_name</key>
+		<string>America/Sao_Paulo</string>
+		<key>timezone_offset</key>
+		<integer>-7200</integer>
+	</dict>
+	<key>Salzburg, Salzburg, Austria</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Samara, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SAMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>San Diego, California, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>San Francisco, California, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>San Jose, California, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>San Jose, Costa Rica</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>San Juan, Puerto Rico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>San Luis Potosi, San Luis Potosí, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>San Marino, San Marino</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>San Salvador, El Salvador</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Sana, Yemen</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Santa Ana, El Salvador</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Santa Fe, New Mexico, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Santiago, Chile</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CLST</string>
+		<key>timezone_name</key>
+		<string>America/Santiago</string>
+		<key>timezone_offset</key>
+		<integer>-10800</integer>
+	</dict>
+	<key>Santo Domingo, Dominican Republic</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Sapporo, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Sarajevo, Herzegovina, Bosnia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Saskatoon, Saskatchewan, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Seattle, Washington, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Semarang, Central Java, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WIB</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Seoul, South Korea</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>KST</string>
+		<key>timezone_name</key>
+		<string>Asia/Seoul</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Shanghai, Shanghai Municipality, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Shantou, Guangdong, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Shenyang, Liaoning, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Shenzhen, Guangdong, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Shijiazhuang, Hebei, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Shizuoka, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Sian, Shaanxi, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Simferopol, Auton. Republic of Crimea, Ukraine</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MSK</string>
+		<key>timezone_name</key>
+		<string>Europe/Moscow</string>
+		<key>timezone_offset</key>
+		<integer>10800</integer>
+	</dict>
+	<key>Singapore, Singapore</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SGT</string>
+		<key>timezone_name</key>
+		<string>Asia/Singapore</string>
+		<key>timezone_offset</key>
+		<integer>28800</integer>
+	</dict>
+	<key>Sioux Falls, South Dakota, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Skopje, Macedonia, Republic of</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Sofia, Bulgaria</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Srednekolymsk, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SRET</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Sri Jayawardenapura Kotte, Sri Lanka</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>St. John's, Newfoundland and Labrador, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>NST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>St. Louis, Missouri, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>St. Paul, Minnesota, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Stanley, Falkland Islands</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>FKST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Stockholm, Sweden</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Sucre, Bolivia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>BOT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Surabaya, East Java, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WIB</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Surakarta, Java, Indonesia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WIB</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Surat, Gujarat, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Suva, Fiji</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>FJST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Suzhou, Jiangsu, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Sydney, New South Wales, Australia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AEDT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>São Paulo, São Paulo, Brazil</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>BRST</string>
+		<key>timezone_name</key>
+		<string>America/Sao_Paulo</string>
+		<key>timezone_offset</key>
+		<integer>-7200</integer>
+	</dict>
+	<key>São Tomé, Sao Tome and Principe</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Taipei, Taiwan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Taiyuan, Shanxi, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Tallinn, Estonia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Tampa, Florida, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Tangier, Morocco</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WET</string>
+		<key>timezone_name</key>
+		<string>Europe/Lisbon</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Tangshan, Hebei, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Tarawa, Kiribati</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GILT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Tashkent, Uzbekistan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>UZT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Tbilisi, Georgia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GET</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Tegucigalpa, Honduras</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Tehran, Iran</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IRST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tehran</string>
+		<key>timezone_offset</key>
+		<integer>12600</integer>
+	</dict>
+	<key>Tel Aviv, Israel</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Terre, Basse, Guadeloupe</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Thimphu, Bhutan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>BTT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Thiruvananthapuram, Kerala, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Thule Air Base, Greenland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AST</string>
+		<key>timezone_name</key>
+		<string>America/Halifax</string>
+		<key>timezone_offset</key>
+		<integer>-14400</integer>
+	</dict>
+	<key>Tianjin, Tianjin Municipality, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Tijuana, Baja California, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Tiksi, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>YAKT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Tirana, Albania</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Tokyo, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Toledo, Ohio, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Topeka, Kansas, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Toronto, Ontario, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Trenton, New Jersey, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Tripoli, Libya</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Tsingtao, Shandong, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Tucson, Arizona, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Tunis, Tunisia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Turin, Italy</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Tórshavn, Faroe Islands, Faroe Islands</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WET</string>
+		<key>timezone_name</key>
+		<string>Europe/Lisbon</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Ufa, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>YEKT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Ulaanbaatar, Mongolia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ULAT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Unalaska, Alaska, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AKST</string>
+		<key>timezone_name</key>
+		<string>America/Juneau</string>
+		<key>timezone_offset</key>
+		<integer>-32400</integer>
+	</dict>
+	<key>Utsunomiya, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Vaduz, Liechtenstein</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Valletta, Malta</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Vancouver, British Columbia, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Varanasi, Uttar Pradesh, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Vatican City, Vatican City State</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Venice, Italy</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Veracruz, Veracruz, Mexico</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Verkhoyansk, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>VLAT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Victoria, Seychelles</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>SCT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Vienna, Vienna, Austria</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Vientiane, Laos</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>ICT</string>
+		<key>timezone_name</key>
+		<string>Asia/Bangkok</string>
+		<key>timezone_offset</key>
+		<integer>25200</integer>
+	</dict>
+	<key>Vilnius, Lithuania</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EET</string>
+		<key>timezone_name</key>
+		<string>Europe/Istanbul</string>
+		<key>timezone_offset</key>
+		<integer>7200</integer>
+	</dict>
+	<key>Virginia Beach, Virginia, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Visakhapatnam, Andhra Pradesh, India</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>IST</string>
+		<key>timezone_name</key>
+		<string>Asia/Calcutta</string>
+		<key>timezone_offset</key>
+		<integer>19800</integer>
+	</dict>
+	<key>Vladivostok, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>VLAT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Warsaw, Poland</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Washington DC, District of Columbia, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>EST</string>
+		<key>timezone_name</key>
+		<string>America/New_York</string>
+		<key>timezone_offset</key>
+		<integer>-18000</integer>
+	</dict>
+	<key>Wellington, New Zealand</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>NZDT</string>
+		<key>timezone_name</key>
+		<string>Pacific/Auckland</string>
+		<key>timezone_offset</key>
+		<integer>46800</integer>
+	</dict>
+	<key>Whitehorse, Yukon Territory, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>PST</string>
+		<key>timezone_name</key>
+		<string>America/Los_Angeles</string>
+		<key>timezone_offset</key>
+		<integer>-28800</integer>
+	</dict>
+	<key>Wichita, Kansas, U.S.A.</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Windhoek, Namibia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAST</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Winnipeg, Manitoba, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Wuhan, Hubei, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Xiamen, Fujian, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Xinyang, Henan, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Yakutsk, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>YAKT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Yamoussoukro, Cote d'Ivoire (Ivory Coast)</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>GMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Yangon, Myanmar</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Yaoundé, Cameroon</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>WAT</string>
+		<key>timezone_name</key>
+		<string>Africa/Lagos</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Yaren, Nauru</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>NRT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Yekaterinburg, Russia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>YEKT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Yellowknife, Northwest Territories, Canada</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>MST</string>
+		<key>timezone_name</key>
+		<string>America/Denver</string>
+		<key>timezone_offset</key>
+		<integer>-25200</integer>
+	</dict>
+	<key>Yerevan, Armenia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>AMT</string>
+		<key>timezone_name</key>
+		<string>GMT</string>
+		<key>timezone_offset</key>
+		<integer>0</integer>
+	</dict>
+	<key>Yokohama, Japan</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>JST</string>
+		<key>timezone_name</key>
+		<string>Asia/Tokyo</string>
+		<key>timezone_offset</key>
+		<integer>32400</integer>
+	</dict>
+	<key>Zagreb, Croatia</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CET</string>
+		<key>timezone_name</key>
+		<string>Europe/Paris</string>
+		<key>timezone_offset</key>
+		<integer>3600</integer>
+	</dict>
+	<key>Zhengzhou, Henan, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Zibo, Shandong, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+	<key>Ürümqi, Xinjiang, China</key>
+	<dict>
+		<key>timezone_abbreviation</key>
+		<string>CST</string>
+		<key>timezone_name</key>
+		<string>America/Chicago</string>
+		<key>timezone_offset</key>
+		<integer>-21600</integer>
+	</dict>
+</dict>
+</plist>
