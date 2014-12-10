@@ -52,9 +52,9 @@
 		<key>timezone_abbreviation</key>
 		<string>HAST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-1000</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-36000</integer>
 	</dict>
 	<key>Adamstown, Pitcairn Islands</key>
 	<dict>
@@ -79,9 +79,9 @@
 		<key>timezone_abbreviation</key>
 		<string>ACDT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1030</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>37800</integer>
 	</dict>
 	<key>Aden, Yemen</key>
 	<dict>
@@ -187,27 +187,27 @@
 		<key>timezone_abbreviation</key>
 		<string>ACST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0930</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>34200</integer>
 	</dict>
 	<key>Almaty, Kazakhstan</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>ALMT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0600</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>21600</integer>
 	</dict>
 	<key>Alofi, Niue</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>NUT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-1100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-39600</integer>
 	</dict>
 	<key>Amman, Jordan</key>
 	<dict>
@@ -223,9 +223,9 @@
 		<key>timezone_abbreviation</key>
 		<string>TFT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>18000</integer>
 	</dict>
 	<key>Amsterdam, Netherlands</key>
 	<dict>
@@ -241,18 +241,18 @@
 		<key>timezone_abbreviation</key>
 		<string>VLAT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1000</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>36000</integer>
 	</dict>
 	<key>Anadyr, Russia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>ANAT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>43200</integer>
 	</dict>
 	<key>Anantapur, Andhra Pradesh, India</key>
 	<dict>
@@ -286,9 +286,9 @@
 		<key>timezone_abbreviation</key>
 		<string>AZOT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-3600</integer>
 	</dict>
 	<key>Ankara, Turkey</key>
 	<dict>
@@ -331,27 +331,27 @@
 		<key>timezone_abbreviation</key>
 		<string>WST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>3600</integer>
 	</dict>
 	<key>Aqtobe, Kazakhstan</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>AQTT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>18000</integer>
 	</dict>
 	<key>Ashgabat, Turkmenistan</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>TMT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>18000</integer>
 	</dict>
 	<key>Asmara, Eritrea</key>
 	<dict>
@@ -367,18 +367,18 @@
 		<key>timezone_abbreviation</key>
 		<string>ALMT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0600</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>21600</integer>
 	</dict>
 	<key>Asuncion, Paraguay</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>PYST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0300</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-10800</integer>
 	</dict>
 	<key>Athens, Greece</key>
 	<dict>
@@ -457,18 +457,18 @@
 		<key>timezone_abbreviation</key>
 		<string>AZT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0400</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>14400</integer>
 	</dict>
 	<key>Balikpapan, East Kalimantan, Indonesia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>WITA</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0800</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>28800</integer>
 	</dict>
 	<key>Baltimore, Maryland, U.S.A.</key>
 	<dict>
@@ -493,18 +493,18 @@
 		<key>timezone_abbreviation</key>
 		<string>BNT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0800</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>28800</integer>
 	</dict>
 	<key>Bandung, West Java, Indonesia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>WIB</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Bangalore, Karnataka, India</key>
 	<dict>
@@ -565,9 +565,9 @@
 		<key>timezone_abbreviation</key>
 		<string>OMST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0600</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>21600</integer>
 	</dict>
 	<key>Basseterre, Saint Kitts and Nevis</key>
 	<dict>
@@ -655,9 +655,9 @@
 		<key>timezone_abbreviation</key>
 		<string>WIB</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Berlin, Berlin, Germany</key>
 	<dict>
@@ -718,9 +718,9 @@
 		<key>timezone_abbreviation</key>
 		<string>KGT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0600</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>21600</integer>
 	</dict>
 	<key>Bismarck, North Dakota, U.S.A.</key>
 	<dict>
@@ -817,9 +817,9 @@
 		<key>timezone_abbreviation</key>
 		<string>AEST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1000</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>36000</integer>
 	</dict>
 	<key>Brussels, Belgium</key>
 	<dict>
@@ -889,9 +889,9 @@
 		<key>timezone_abbreviation</key>
 		<string>AEST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1000</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>36000</integer>
 	</dict>
 	<key>Cairo, Egypt</key>
 	<dict>
@@ -925,27 +925,27 @@
 		<key>timezone_abbreviation</key>
 		<string>AEDT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>39600</integer>
 	</dict>
 	<key>Cape Town, South Africa</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>SAST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>7200</integer>
 	</dict>
 	<key>Caracas, Venezuela</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>VET</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0430</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-16200</integer>
 	</dict>
 	<key>Cardiff, Wales, United Kingdom</key>
 	<dict>
@@ -988,9 +988,9 @@
 		<key>timezone_abbreviation</key>
 		<string>GFT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0300</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-10800</integer>
 	</dict>
 	<key>Changchun, Jilin, China</key>
 	<dict>
@@ -1042,18 +1042,18 @@
 		<key>timezone_abbreviation</key>
 		<string>CHADT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1345</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>49500</integer>
 	</dict>
 	<key>Chelyabinsk, Russia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>YEKT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>18000</integer>
 	</dict>
 	<key>Chengdu, Sichuan, China</key>
 	<dict>
@@ -1123,9 +1123,9 @@
 		<key>timezone_abbreviation</key>
 		<string>IRKT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0800</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>28800</integer>
 	</dict>
 	<key>Chittagong, Bangladesh</key>
 	<dict>
@@ -1312,9 +1312,9 @@
 		<key>timezone_abbreviation</key>
 		<string>ACST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0930</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>34200</integer>
 	</dict>
 	<key>Davao, Philippines</key>
 	<dict>
@@ -1339,18 +1339,18 @@
 		<key>timezone_abbreviation</key>
 		<string>RET</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0400</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>14400</integer>
 	</dict>
 	<key>Denpasar, Bali, Indonesia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>WITA</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0800</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>28800</integer>
 	</dict>
 	<key>Denver, Colorado, U.S.A.</key>
 	<dict>
@@ -1393,18 +1393,18 @@
 		<key>timezone_abbreviation</key>
 		<string>IOT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0600</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>21600</integer>
 	</dict>
 	<key>Dili, Leste, Timor</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>TLT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0900</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>32400</integer>
 	</dict>
 	<key>Djibouti, Djibouti</key>
 	<dict>
@@ -1474,18 +1474,18 @@
 		<key>timezone_abbreviation</key>
 		<string>SAST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>7200</integer>
 	</dict>
 	<key>Dushanbe, Tajikistan</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>TJT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>18000</integer>
 	</dict>
 	<key>Düsseldorf, Westphalia, North Rhine, Germany</key>
 	<dict>
@@ -1501,9 +1501,9 @@
 		<key>timezone_abbreviation</key>
 		<string>EASST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-18000</integer>
 	</dict>
 	<key>Edinburgh, Scotland, United Kingdom</key>
 	<dict>
@@ -1546,9 +1546,9 @@
 		<key>timezone_abbreviation</key>
 		<string>ACWST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0845</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>31500</integer>
 	</dict>
 	<key>Eureka, Nunavut Territory, Canada</key>
 	<dict>
@@ -1582,9 +1582,9 @@
 		<key>timezone_abbreviation</key>
 		<string>TKT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1300</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>46800</integer>
 	</dict>
 	<key>Fargo, North Dakota, U.S.A.</key>
 	<dict>
@@ -1645,9 +1645,9 @@
 		<key>timezone_abbreviation</key>
 		<string>TFT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>18000</integer>
 	</dict>
 	<key>France, de, Fort, Martinique</key>
 	<dict>
@@ -1708,9 +1708,9 @@
 		<key>timezone_abbreviation</key>
 		<string>TVT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>43200</integer>
 	</dict>
 	<key>Fushun, Liaoning, China</key>
 	<dict>
@@ -1735,9 +1735,9 @@
 		<key>timezone_abbreviation</key>
 		<string>GALT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0600</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-21600</integer>
 	</dict>
 	<key>Gaza, Gaza Strip</key>
 	<dict>
@@ -1780,9 +1780,9 @@
 		<key>timezone_abbreviation</key>
 		<string>GYT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0400</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-14400</integer>
 	</dict>
 	<key>Gibraltar, Gibraltar</key>
 	<dict>
@@ -1816,9 +1816,9 @@
 		<key>timezone_abbreviation</key>
 		<string>WITA</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0800</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>28800</integer>
 	</dict>
 	<key>Grise Fiord, Nunavut Territory, Canada</key>
 	<dict>
@@ -1861,9 +1861,9 @@
 		<key>timezone_abbreviation</key>
 		<string>ECT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-18000</integer>
 	</dict>
 	<key>Guiyang, Guizhou, China</key>
 	<dict>
@@ -1888,9 +1888,9 @@
 		<key>timezone_abbreviation</key>
 		<string>ChST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1000</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>36000</integer>
 	</dict>
 	<key>Hai Phong, Vietnam</key>
 	<dict>
@@ -2077,9 +2077,9 @@
 		<key>timezone_abbreviation</key>
 		<string>AEDT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>39600</integer>
 	</dict>
 	<key>Home</key>
 	<dict>
@@ -2104,18 +2104,18 @@
 		<key>timezone_abbreviation</key>
 		<string>SBT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>39600</integer>
 	</dict>
 	<key>Honolulu, Hawaii, U.S.A.</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>HAST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-1000</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-36000</integer>
 	</dict>
 	<key>Houston, Texas, U.S.A.</key>
 	<dict>
@@ -2131,9 +2131,9 @@
 		<key>timezone_abbreviation</key>
 		<string>HOVT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Hyderabad, Telangana, India</key>
 	<dict>
@@ -2194,9 +2194,9 @@
 		<key>timezone_abbreviation</key>
 		<string>IRKT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0800</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>28800</integer>
 	</dict>
 	<key>Islamabad, Pakistan</key>
 	<dict>
@@ -2221,9 +2221,9 @@
 		<key>timezone_abbreviation</key>
 		<string>EGT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-3600</integer>
 	</dict>
 	<key>Izmir, Turkey</key>
 	<dict>
@@ -2266,9 +2266,9 @@
 		<key>timezone_abbreviation</key>
 		<string>WIB</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Jamestown, Saint Helena</key>
 	<dict>
@@ -2347,9 +2347,9 @@
 		<key>timezone_abbreviation</key>
 		<string>SAST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>7200</integer>
 	</dict>
 	<key>Juba, South Sudan</key>
 	<dict>
@@ -2365,9 +2365,9 @@
 		<key>timezone_abbreviation</key>
 		<string>AFT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0430</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>16200</integer>
 	</dict>
 	<key>Kagoshima, Japan</key>
 	<dict>
@@ -2392,9 +2392,9 @@
 		<key>timezone_abbreviation</key>
 		<string>PETT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>43200</integer>
 	</dict>
 	<key>Kampala, Uganda</key>
 	<dict>
@@ -2410,9 +2410,9 @@
 		<key>timezone_abbreviation</key>
 		<string>WGT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0300</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-10800</integer>
 	</dict>
 	<key>Kano, Nigeria</key>
 	<dict>
@@ -2455,9 +2455,9 @@
 		<key>timezone_abbreviation</key>
 		<string>NPT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0545</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>20700</integer>
 	</dict>
 	<key>Kawasaki, Japan</key>
 	<dict>
@@ -2491,9 +2491,9 @@
 		<key>timezone_abbreviation</key>
 		<string>WITA</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0800</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>28800</integer>
 	</dict>
 	<key>Khartoum, Sudan</key>
 	<dict>
@@ -2509,9 +2509,9 @@
 		<key>timezone_abbreviation</key>
 		<string>KRAT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Khon Kaen, Thailand</key>
 	<dict>
@@ -2572,9 +2572,9 @@
 		<key>timezone_abbreviation</key>
 		<string>LINT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1400</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>50400</integer>
 	</dict>
 	<key>Kitakyushu, Japan</key>
 	<dict>
@@ -2617,18 +2617,18 @@
 		<key>timezone_abbreviation</key>
 		<string>KRAT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Kuala Lumpur, Malaysia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>MYT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0800</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>28800</integer>
 	</dict>
 	<key>Kumamoto, Japan</key>
 	<dict>
@@ -2698,9 +2698,9 @@
 		<key>timezone_abbreviation</key>
 		<string>BOT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0400</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-14400</integer>
 	</dict>
 	<key>Lagos, Nigeria</key>
 	<dict>
@@ -3022,27 +3022,27 @@
 		<key>timezone_abbreviation</key>
 		<string>MAGT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1000</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>36000</integer>
 	</dict>
 	<key>Majuro, Marshall Islands</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>MHT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>43200</integer>
 	</dict>
 	<key>Makassar, South Sulawesi, Indonesia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>WITA</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0800</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>28800</integer>
 	</dict>
 	<key>Makkah, Saudi Arabia</key>
 	<dict>
@@ -3067,27 +3067,27 @@
 		<key>timezone_abbreviation</key>
 		<string>WIB</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Male, Maldives</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>MVT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>18000</integer>
 	</dict>
 	<key>Manado, North Sulawesi, Indonesia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>WITA</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0800</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>28800</integer>
 	</dict>
 	<key>Managua, Nicaragua</key>
 	<dict>
@@ -3112,18 +3112,18 @@
 		<key>timezone_abbreviation</key>
 		<string>AMT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0400</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>14400</integer>
 	</dict>
 	<key>Mandalay, Myanmar</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>MMT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0630</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>23400</integer>
 	</dict>
 	<key>Manila, Philippines</key>
 	<dict>
@@ -3175,9 +3175,9 @@
 		<key>timezone_abbreviation</key>
 		<string>SAST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>7200</integer>
 	</dict>
 	<key>Matsuyama, Japan</key>
 	<dict>
@@ -3202,18 +3202,18 @@
 		<key>timezone_abbreviation</key>
 		<string>SAST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>7200</integer>
 	</dict>
 	<key>Medan, North Sumatra, Indonesia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>WIB</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Medellin, Colombia</key>
 	<dict>
@@ -3238,18 +3238,18 @@
 		<key>timezone_abbreviation</key>
 		<string>AEDT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>39600</integer>
 	</dict>
 	<key>Melekeok, Palau</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>PWT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0900</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>32400</integer>
 	</dict>
 	<key>Memphis, Tennessee, U.S.A.</key>
 	<dict>
@@ -3319,9 +3319,9 @@
 		<key>timezone_abbreviation</key>
 		<string>SST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-1100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-39600</integer>
 	</dict>
 	<key>Milan, Italy</key>
 	<dict>
@@ -3355,9 +3355,9 @@
 		<key>timezone_abbreviation</key>
 		<string>FET</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0300</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>10800</integer>
 	</dict>
 	<key>Mississauga, Ontario, Canada</key>
 	<dict>
@@ -3400,9 +3400,9 @@
 		<key>timezone_abbreviation</key>
 		<string>UYST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-7200</integer>
 	</dict>
 	<key>Montgomery, Alabama, U.S.A.</key>
 	<dict>
@@ -3580,9 +3580,9 @@
 		<key>timezone_abbreviation</key>
 		<string>MMT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0630</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>23400</integer>
 	</dict>
 	<key>Ndjamena, Chad</key>
 	<dict>
@@ -3679,9 +3679,9 @@
 		<key>timezone_abbreviation</key>
 		<string>KRAT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Nouakchott, Mauritania</key>
 	<dict>
@@ -3697,9 +3697,9 @@
 		<key>timezone_abbreviation</key>
 		<string>NCT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>39600</integer>
 	</dict>
 	<key>Novgorod, Russia</key>
 	<dict>
@@ -3715,27 +3715,27 @@
 		<key>timezone_abbreviation</key>
 		<string>NOVT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0600</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>21600</integer>
 	</dict>
 	<key>Nukualofa, Tonga</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>TOT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1300</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>46800</integer>
 	</dict>
 	<key>Nuuk, Greenland</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>WGT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0300</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-10800</integer>
 	</dict>
 	<key>Nãgpur, Maharashtra, India</key>
 	<dict>
@@ -3778,18 +3778,18 @@
 		<key>timezone_abbreviation</key>
 		<string>OMST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0600</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>21600</integer>
 	</dict>
 	<key>Oral, Kazakhstan</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>ORAT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>18000</integer>
 	</dict>
 	<key>Orlando, Florida, U.S.A.</key>
 	<dict>
@@ -3841,27 +3841,27 @@
 		<key>timezone_abbreviation</key>
 		<string>WIB</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Palembang, South Sumatra, Indonesia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>WIB</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Palikir, Ponape, Micronesia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>PONT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>39600</integer>
 	</dict>
 	<key>Palma, Majorca, Spain</key>
 	<dict>
@@ -3877,9 +3877,9 @@
 		<key>timezone_abbreviation</key>
 		<string>WITA</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0800</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>28800</integer>
 	</dict>
 	<key>Panama, Panama</key>
 	<dict>
@@ -3895,18 +3895,18 @@
 		<key>timezone_abbreviation</key>
 		<string>TAHT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-1000</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-36000</integer>
 	</dict>
 	<key>Paramaribo, Suriname</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>SRT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0300</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-10800</integer>
 	</dict>
 	<key>Paris, France</key>
 	<dict>
@@ -3940,18 +3940,18 @@
 		<key>timezone_abbreviation</key>
 		<string>YEKT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>18000</integer>
 	</dict>
 	<key>Perth, Western Australia, Australia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>AWST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0800</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>28800</integer>
 	</dict>
 	<key>Petersburg, Saint, Russia</key>
 	<dict>
@@ -3967,9 +3967,9 @@
 		<key>timezone_abbreviation</key>
 		<string>ANAT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>43200</integer>
 	</dict>
 	<key>Philadelphia, Pennsylvania, U.S.A.</key>
 	<dict>
@@ -4021,9 +4021,9 @@
 		<key>timezone_abbreviation</key>
 		<string>SAST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>7200</integer>
 	</dict>
 	<key>Pond Inlet, Nunavut Territory, Canada</key>
 	<dict>
@@ -4039,45 +4039,45 @@
 		<key>timezone_abbreviation</key>
 		<string>AZOT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-3600</integer>
 	</dict>
 	<key>Pontianak, West Kalimantan, Indonesia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>WIB</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Port Louis, Mauritius</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>MUT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0400</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>14400</integer>
 	</dict>
 	<key>Port Moresby, Papua New Guinea</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>PGT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1000</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>36000</integer>
 	</dict>
 	<key>Port Vila, Vanuatu</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>VUT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>39600</integer>
 	</dict>
 	<key>Port of Spain, Trinidad and Tobago</key>
 	<dict>
@@ -4129,18 +4129,18 @@
 		<key>timezone_abbreviation</key>
 		<string>CVT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-3600</integer>
 	</dict>
 	<key>Pretoria, South Africa</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>SAST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>7200</integer>
 	</dict>
 	<key>Prince, au, Port, Haiti</key>
 	<dict>
@@ -4210,9 +4210,9 @@
 		<key>timezone_abbreviation</key>
 		<string>WGT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0300</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-10800</integer>
 	</dict>
 	<key>Qiqihar, Heilongjiang, China</key>
 	<dict>
@@ -4237,9 +4237,9 @@
 		<key>timezone_abbreviation</key>
 		<string>ECT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-18000</integer>
 	</dict>
 	<key>Québec, Quebec, Canada</key>
 	<dict>
@@ -4282,9 +4282,9 @@
 		<key>timezone_abbreviation</key>
 		<string>CKT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-1000</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-36000</integer>
 	</dict>
 	<key>Rasht, Iran</key>
 	<dict>
@@ -4363,9 +4363,9 @@
 		<key>timezone_abbreviation</key>
 		<string>ACT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-18000</integer>
 	</dict>
 	<key>Rio de Janeiro, Rio de Janeiro, Brazil</key>
 	<dict>
@@ -4435,9 +4435,9 @@
 		<key>timezone_abbreviation</key>
 		<string>SAST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>7200</integer>
 	</dict>
 	<key>Ryazan, Russia</key>
 	<dict>
@@ -4507,9 +4507,9 @@
 		<key>timezone_abbreviation</key>
 		<string>SAKT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1000</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>36000</integer>
 	</dict>
 	<key>Salem, Oregon, U.S.A.</key>
 	<dict>
@@ -4552,9 +4552,9 @@
 		<key>timezone_abbreviation</key>
 		<string>SAMT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0400</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>14400</integer>
 	</dict>
 	<key>San Diego, California, U.S.A.</key>
 	<dict>
@@ -4714,9 +4714,9 @@
 		<key>timezone_abbreviation</key>
 		<string>WIB</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Seoul, South Korea</key>
 	<dict>
@@ -4840,9 +4840,9 @@
 		<key>timezone_abbreviation</key>
 		<string>SRET</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>39600</integer>
 	</dict>
 	<key>Sri Jayawardenapura Kotte, Sri Lanka</key>
 	<dict>
@@ -4858,9 +4858,9 @@
 		<key>timezone_abbreviation</key>
 		<string>NST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0330</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-12600</integer>
 	</dict>
 	<key>St. Louis, Missouri, U.S.A.</key>
 	<dict>
@@ -4885,9 +4885,9 @@
 		<key>timezone_abbreviation</key>
 		<string>FKST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0300</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-10800</integer>
 	</dict>
 	<key>Stockholm, Sweden</key>
 	<dict>
@@ -4903,27 +4903,27 @@
 		<key>timezone_abbreviation</key>
 		<string>BOT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT-0400</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>-14400</integer>
 	</dict>
 	<key>Surabaya, East Java, Indonesia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>WIB</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Surakarta, Java, Indonesia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>WIB</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0700</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>25200</integer>
 	</dict>
 	<key>Surat, Gujarat, India</key>
 	<dict>
@@ -4939,9 +4939,9 @@
 		<key>timezone_abbreviation</key>
 		<string>FJST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1300</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>46800</integer>
 	</dict>
 	<key>Suzhou, Jiangsu, China</key>
 	<dict>
@@ -4957,9 +4957,9 @@
 		<key>timezone_abbreviation</key>
 		<string>AEDT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1100</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>39600</integer>
 	</dict>
 	<key>São Paulo, São Paulo, Brazil</key>
 	<dict>
@@ -5038,27 +5038,27 @@
 		<key>timezone_abbreviation</key>
 		<string>GILT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>43200</integer>
 	</dict>
 	<key>Tashkent, Uzbekistan</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>UZT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>18000</integer>
 	</dict>
 	<key>Tbilisi, Georgia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>GET</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0400</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>14400</integer>
 	</dict>
 	<key>Tegucigalpa, Honduras</key>
 	<dict>
@@ -5101,9 +5101,9 @@
 		<key>timezone_abbreviation</key>
 		<string>BTT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0600</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>21600</integer>
 	</dict>
 	<key>Thiruvananthapuram, Kerala, India</key>
 	<dict>
@@ -5146,9 +5146,9 @@
 		<key>timezone_abbreviation</key>
 		<string>YAKT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0900</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>32400</integer>
 	</dict>
 	<key>Tirana, Albania</key>
 	<dict>
@@ -5263,18 +5263,18 @@
 		<key>timezone_abbreviation</key>
 		<string>YEKT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>18000</integer>
 	</dict>
 	<key>Ulaanbaatar, Mongolia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>ULAT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0800</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>28800</integer>
 	</dict>
 	<key>Unalaska, Alaska, U.S.A.</key>
 	<dict>
@@ -5362,18 +5362,18 @@
 		<key>timezone_abbreviation</key>
 		<string>VLAT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1000</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>36000</integer>
 	</dict>
 	<key>Victoria, Seychelles</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>SCT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0400</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>14400</integer>
 	</dict>
 	<key>Vienna, Vienna, Austria</key>
 	<dict>
@@ -5425,9 +5425,9 @@
 		<key>timezone_abbreviation</key>
 		<string>VLAT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1000</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>36000</integer>
 	</dict>
 	<key>Warsaw, Poland</key>
 	<dict>
@@ -5479,9 +5479,9 @@
 		<key>timezone_abbreviation</key>
 		<string>WAST</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>7200</integer>
 	</dict>
 	<key>Winnipeg, Manitoba, Canada</key>
 	<dict>
@@ -5524,9 +5524,9 @@
 		<key>timezone_abbreviation</key>
 		<string>YAKT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0900</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>32400</integer>
 	</dict>
 	<key>Yamoussoukro, Cote d'Ivoire (Ivory Coast)</key>
 	<dict>
@@ -5542,9 +5542,9 @@
 		<key>timezone_abbreviation</key>
 		<string>MMT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0630</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>23400</integer>
 	</dict>
 	<key>Yaoundé, Cameroon</key>
 	<dict>
@@ -5560,18 +5560,18 @@
 		<key>timezone_abbreviation</key>
 		<string>NRT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+1200</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>43200</integer>
 	</dict>
 	<key>Yekaterinburg, Russia</key>
 	<dict>
 		<key>timezone_abbreviation</key>
 		<string>YEKT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0500</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>18000</integer>
 	</dict>
 	<key>Yellowknife, Northwest Territories, Canada</key>
 	<dict>
@@ -5587,9 +5587,9 @@
 		<key>timezone_abbreviation</key>
 		<string>AMT</string>
 		<key>timezone_name</key>
-		<string>GMT</string>
+		<string>GMT+0400</string>
 		<key>timezone_offset</key>
-		<integer>0</integer>
+		<integer>14400</integer>
 	</dict>
 	<key>Yokohama, Japan</key>
 	<dict>

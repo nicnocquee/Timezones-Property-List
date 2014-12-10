@@ -13,13 +13,13 @@
 	<key>Accra, Ghana</key>
 	<string>GMT</string>
 	<key>Adak, Alaska, U.S.A.</key>
-	<string>GMT</string>
+	<string>GMT-1000</string>
 	<key>Adamstown, Pitcairn Islands</key>
 	<string>America/Los_Angeles</string>
 	<key>Addis Ababa, Ethiopia</key>
 	<string>Africa/Addis_Ababa</string>
 	<key>Adelaide, South Australia, Australia</key>
-	<string>GMT</string>
+	<string>GMT+1030</string>
 	<key>Aden, Yemen</key>
 	<string>America/Halifax</string>
 	<key>Agra, Uttar Pradesh, India</key>
@@ -43,21 +43,21 @@
 	<key>Algiers, Algeria</key>
 	<string>Europe/Paris</string>
 	<key>Alice Springs, Northern Territory, Australia</key>
-	<string>GMT</string>
+	<string>GMT+0930</string>
 	<key>Almaty, Kazakhstan</key>
-	<string>GMT</string>
+	<string>GMT+0600</string>
 	<key>Alofi, Niue</key>
-	<string>GMT</string>
+	<string>GMT-1100</string>
 	<key>Amman, Jordan</key>
 	<string>America/Halifax</string>
 	<key>Amsterdam Island, French Southern Territories, France</key>
-	<string>GMT</string>
+	<string>GMT+0500</string>
 	<key>Amsterdam, Netherlands</key>
 	<string>Europe/Paris</string>
 	<key>Amur, on, Komsomolsk, Russia</key>
-	<string>GMT</string>
+	<string>GMT+1000</string>
 	<key>Anadyr, Russia</key>
-	<string>GMT</string>
+	<string>GMT+1200</string>
 	<key>Anantapur, Andhra Pradesh, India</key>
 	<string>Asia/Calcutta</string>
 	<key>Anchorage, Alaska, U.S.A.</key>
@@ -65,7 +65,7 @@
 	<key>Andorra La Vella, Andorra</key>
 	<string>Europe/Paris</string>
 	<key>Angra do Heroísmo, Azores, Portugal</key>
-	<string>GMT</string>
+	<string>GMT-0100</string>
 	<key>Ankara, Turkey</key>
 	<string>Europe/Istanbul</string>
 	<key>Annapolis, Maryland, U.S.A.</key>
@@ -75,17 +75,17 @@
 	<key>Antananarivo, Madagascar</key>
 	<string>Africa/Addis_Ababa</string>
 	<key>Apia, Samoa</key>
-	<string>GMT</string>
+	<string>GMT+0100</string>
 	<key>Aqtobe, Kazakhstan</key>
-	<string>GMT</string>
+	<string>GMT+0500</string>
 	<key>Ashgabat, Turkmenistan</key>
-	<string>GMT</string>
+	<string>GMT+0500</string>
 	<key>Asmara, Eritrea</key>
 	<string>Africa/Addis_Ababa</string>
 	<key>Astana, Kazakhstan</key>
-	<string>GMT</string>
+	<string>GMT+0600</string>
 	<key>Asuncion, Paraguay</key>
-	<string>GMT</string>
+	<string>GMT-0300</string>
 	<key>Athens, Greece</key>
 	<string>Europe/Istanbul</string>
 	<key>Atlanta, Georgia, U.S.A.</key>
@@ -103,17 +103,17 @@
 	<key>Baker Lake, Nunavut Territory, Canada</key>
 	<string>America/Chicago</string>
 	<key>Baku, Azerbaijan</key>
-	<string>GMT</string>
+	<string>GMT+0400</string>
 	<key>Balikpapan, East Kalimantan, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0800</string>
 	<key>Baltimore, Maryland, U.S.A.</key>
 	<string>America/New_York</string>
 	<key>Bamako, Mali</key>
 	<string>GMT</string>
 	<key>Bandar Seri Begawan, Brunei</key>
-	<string>GMT</string>
+	<string>GMT+0800</string>
 	<key>Bandung, West Java, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Bangalore, Karnataka, India</key>
 	<string>Asia/Calcutta</string>
 	<key>Bangkok, Thailand</key>
@@ -127,7 +127,7 @@
 	<key>Barcelona, Barcelona, Spain</key>
 	<string>Europe/Paris</string>
 	<key>Barnaul, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0600</string>
 	<key>Basseterre, Saint Kitts and Nevis</key>
 	<string>America/Halifax</string>
 	<key>Baton Rouge, Louisiana, U.S.A.</key>
@@ -147,7 +147,7 @@
 	<key>Belém, Para, Brazil</key>
 	<string>America/Sao_Paulo</string>
 	<key>Bengkulu, Bengkulu, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Berlin, Berlin, Germany</key>
 	<string>Europe/Paris</string>
 	<key>Bern, Bern, Switzerland</key>
@@ -161,7 +161,7 @@
 	<key>Birmingham, England, United Kingdom</key>
 	<string>GMT</string>
 	<key>Bishkek, Kyrgyzstan</key>
-	<string>GMT</string>
+	<string>GMT+0600</string>
 	<key>Bismarck, North Dakota, U.S.A.</key>
 	<string>America/Chicago</string>
 	<key>Bissau, Bissau, Guinea</key>
@@ -183,7 +183,7 @@
 	<key>Bridgetown, Barbados</key>
 	<string>America/Halifax</string>
 	<key>Brisbane, Queensland, Australia</key>
-	<string>GMT</string>
+	<string>GMT+1000</string>
 	<key>Brussels, Belgium</key>
 	<string>Europe/Paris</string>
 	<key>Bucharest, Romania</key>
@@ -199,7 +199,7 @@
 	<key>Busan, South Korea</key>
 	<string>Asia/Seoul</string>
 	<key>Cairns, Queensland, Australia</key>
-	<string>GMT</string>
+	<string>GMT+1000</string>
 	<key>Cairo, Egypt</key>
 	<string>Europe/Istanbul</string>
 	<key>Calgary, Alberta, Canada</key>
@@ -207,11 +207,11 @@
 	<key>Cali, Colombia</key>
 	<string>America/Bogota</string>
 	<key>Canberra, Australian Capital Territory, Australia</key>
-	<string>GMT</string>
+	<string>GMT+1100</string>
 	<key>Cape Town, South Africa</key>
-	<string>GMT</string>
+	<string>GMT+0200</string>
 	<key>Caracas, Venezuela</key>
-	<string>GMT</string>
+	<string>GMT-0430</string>
 	<key>Cardiff, Wales, United Kingdom</key>
 	<string>GMT</string>
 	<key>Carson City, Nevada, U.S.A.</key>
@@ -221,7 +221,7 @@
 	<key>Castries, Saint Lucia</key>
 	<string>America/Halifax</string>
 	<key>Cayenne, French Guiana</key>
-	<string>GMT</string>
+	<string>GMT-0300</string>
 	<key>Changchun, Jilin, China</key>
 	<string>America/Chicago</string>
 	<key>Changde, Hunan, China</key>
@@ -233,9 +233,9 @@
 	<key>Charlotte, North Carolina, U.S.A.</key>
 	<string>America/New_York</string>
 	<key>Chatham Islands, Chatham Islands, New Zealand</key>
-	<string>GMT</string>
+	<string>GMT+1345</string>
 	<key>Chelyabinsk, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0500</string>
 	<key>Chengdu, Sichuan, China</key>
 	<string>America/Chicago</string>
 	<key>Chennai, Tamil Nadu, India</key>
@@ -251,7 +251,7 @@
 	<key>Chisinau, Moldova</key>
 	<string>Europe/Istanbul</string>
 	<key>Chita, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0800</string>
 	<key>Chittagong, Bangladesh</key>
 	<string>Europe/London</string>
 	<key>Chongqing, Chongqing Municipality, China</key>
@@ -293,15 +293,15 @@
 	<key>Dar es Salaam, Tanzania</key>
 	<string>Africa/Addis_Ababa</string>
 	<key>Darwin, Northern Territory, Australia</key>
-	<string>GMT</string>
+	<string>GMT+0930</string>
 	<key>Davao, Philippines</key>
 	<string>Asia/Manila</string>
 	<key>Delhi, Delhi, India</key>
 	<string>Asia/Calcutta</string>
 	<key>Denis, Saint, Reunion (French)</key>
-	<string>GMT</string>
+	<string>GMT+0400</string>
 	<key>Denpasar, Bali, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0800</string>
 	<key>Denver, Colorado, U.S.A.</key>
 	<string>America/Denver</string>
 	<key>Des Moines, Iowa, U.S.A.</key>
@@ -311,9 +311,9 @@
 	<key>Dhaka, Bangladesh</key>
 	<string>Europe/London</string>
 	<key>Diego Garcia, British Indian Ocean Territory</key>
-	<string>GMT</string>
+	<string>GMT+0600</string>
 	<key>Dili, Leste, Timor</key>
-	<string>GMT</string>
+	<string>GMT+0900</string>
 	<key>Djibouti, Djibouti</key>
 	<string>Africa/Addis_Ababa</string>
 	<key>Dodoma, Tanzania</key>
@@ -329,13 +329,13 @@
 	<key>Dublin, Ireland</key>
 	<string>GMT</string>
 	<key>Durban, South Africa</key>
-	<string>GMT</string>
+	<string>GMT+0200</string>
 	<key>Dushanbe, Tajikistan</key>
-	<string>GMT</string>
+	<string>GMT+0500</string>
 	<key>Düsseldorf, Westphalia, North Rhine, Germany</key>
 	<string>Europe/Paris</string>
 	<key>Easter Island, Chile</key>
-	<string>GMT</string>
+	<string>GMT-0500</string>
 	<key>Edinburgh, Scotland, United Kingdom</key>
 	<string>GMT</string>
 	<key>Edmonton, Alberta, Canada</key>
@@ -345,7 +345,7 @@
 	<key>El Paso, Texas, U.S.A.</key>
 	<string>America/Denver</string>
 	<key>Eucla, Western Australia, Australia</key>
-	<string>GMT</string>
+	<string>GMT+0845</string>
 	<key>Eureka, Nunavut Territory, Canada</key>
 	<string>America/Chicago</string>
 	<key>Fairbanks, Alaska, U.S.A.</key>
@@ -353,7 +353,7 @@
 	<key>Faisalabad, Pakistan</key>
 	<string>Asia/Karachi</string>
 	<key>Fakaofo, Tokelau, Tokelau</key>
-	<string>GMT</string>
+	<string>GMT+1300</string>
 	<key>Fargo, North Dakota, U.S.A.</key>
 	<string>America/Chicago</string>
 	<key>Fayetteville, North Carolina, U.S.A.</key>
@@ -367,7 +367,7 @@
 	<key>Foshan, Guangdong, China</key>
 	<string>America/Chicago</string>
 	<key>Francais, aux, Port, Kerguelen Islands</key>
-	<string>GMT</string>
+	<string>GMT+0500</string>
 	<key>France, de, Fort, Martinique</key>
 	<string>America/Halifax</string>
 	<key>Frankfort, Kentucky, U.S.A.</key>
@@ -381,13 +381,13 @@
 	<key>Fukuoka, Japan</key>
 	<string>Asia/Tokyo</string>
 	<key>Funafuti, Tuvalu</key>
-	<string>GMT</string>
+	<string>GMT+1200</string>
 	<key>Fushun, Liaoning, China</key>
 	<string>America/Chicago</string>
 	<key>Gaborone, Botswana</key>
 	<string>Africa/Harare</string>
 	<key>Galapagos Islands, Ecuador</key>
-	<string>GMT</string>
+	<string>GMT-0600</string>
 	<key>Gaza, Gaza Strip</key>
 	<string>Europe/Istanbul</string>
 	<key>General Santos, Philippines</key>
@@ -397,7 +397,7 @@
 	<key>George Town, Cayman Islands</key>
 	<string>America/New_York</string>
 	<key>Georgetown, Guyana</key>
-	<string>GMT</string>
+	<string>GMT-0400</string>
 	<key>Gibraltar, Gibraltar</key>
 	<string>Europe/Paris</string>
 	<key>Glasgow, Scotland, United Kingdom</key>
@@ -405,7 +405,7 @@
 	<key>Goose Bay, Happy Valley, Newfoundland and Labrador, Canada</key>
 	<string>America/Halifax</string>
 	<key>Gorontalo, Gorontalo, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0800</string>
 	<key>Grise Fiord, Nunavut Territory, Canada</key>
 	<string>America/New_York</string>
 	<key>Guadalajara, Jalisco, Mexico</key>
@@ -415,13 +415,13 @@
 	<key>Guatemala, Guatemala</key>
 	<string>America/Chicago</string>
 	<key>Guayaquil, Ecuador</key>
-	<string>GMT</string>
+	<string>GMT-0500</string>
 	<key>Guiyang, Guizhou, China</key>
 	<string>America/Chicago</string>
 	<key>Gujranwala, Pakistan</key>
 	<string>Asia/Karachi</string>
 	<key>Hagåtña, Guam</key>
-	<string>GMT</string>
+	<string>GMT+1000</string>
 	<key>Hai Phong, Vietnam</key>
 	<string>Asia/Bangkok</string>
 	<key>Halifax, Nova Scotia, Canada</key>
@@ -463,19 +463,19 @@
 	<key>Ho Chi Minh, Vietnam</key>
 	<string>Asia/Bangkok</string>
 	<key>Hobart, Tasmania, Australia</key>
-	<string>GMT</string>
+	<string>GMT+1100</string>
 	<key>Home</key>
 	<string>Europe/Paris</string>
 	<key>Hong Kong, Hong Kong</key>
 	<string>Asia/Hong_Kong</string>
 	<key>Honiara, Solomon Islands</key>
-	<string>GMT</string>
+	<string>GMT+1100</string>
 	<key>Honolulu, Hawaii, U.S.A.</key>
-	<string>GMT</string>
+	<string>GMT-1000</string>
 	<key>Houston, Texas, U.S.A.</key>
 	<string>America/Chicago</string>
 	<key>Hovd, Mongolia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Hyderabad, Telangana, India</key>
 	<string>Asia/Calcutta</string>
 	<key>Incheon, South Korea</key>
@@ -489,13 +489,13 @@
 	<key>Iqaluit, Nunavut Territory, Canada</key>
 	<string>America/New_York</string>
 	<key>Irkutsk, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0800</string>
 	<key>Islamabad, Pakistan</key>
 	<string>Asia/Karachi</string>
 	<key>Istanbul, Turkey</key>
 	<string>Europe/Istanbul</string>
 	<key>Ittoqqortoormiit, Greenland</key>
-	<string>GMT</string>
+	<string>GMT-0100</string>
 	<key>Izmir, Turkey</key>
 	<string>Europe/Istanbul</string>
 	<key>Jackson, Mississippi, U.S.A.</key>
@@ -505,7 +505,7 @@
 	<key>Jaipur, Rajasthan, India</key>
 	<string>Asia/Calcutta</string>
 	<key>Jakarta, Jakarta Special Capital Region, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Jamestown, Saint Helena</key>
 	<string>GMT</string>
 	<key>Jayapura, Papua, Indonesia</key>
@@ -523,21 +523,21 @@
 	<key>Jinzhou, Liaoning, China</key>
 	<string>America/Chicago</string>
 	<key>Johannesburg, South Africa</key>
-	<string>GMT</string>
+	<string>GMT+0200</string>
 	<key>Juba, South Sudan</key>
 	<string>Africa/Addis_Ababa</string>
 	<key>Kabul, Afghanistan</key>
-	<string>GMT</string>
+	<string>GMT+0430</string>
 	<key>Kagoshima, Japan</key>
 	<string>Asia/Tokyo</string>
 	<key>Kaliningrad, Russia</key>
 	<string>Europe/Istanbul</string>
 	<key>Kamchatsky, Petropavlovsk, Russia</key>
-	<string>GMT</string>
+	<string>GMT+1200</string>
 	<key>Kampala, Uganda</key>
 	<string>Africa/Addis_Ababa</string>
 	<key>Kangerlussuaq, Greenland</key>
-	<string>GMT</string>
+	<string>GMT-0300</string>
 	<key>Kano, Nigeria</key>
 	<string>Africa/Lagos</string>
 	<key>Kansas City, Missouri, U.S.A.</key>
@@ -547,7 +547,7 @@
 	<key>Karaj, Iran</key>
 	<string>Asia/Tehran</string>
 	<key>Kathmandu, Nepal</key>
-	<string>GMT</string>
+	<string>GMT+0545</string>
 	<key>Kawasaki, Japan</key>
 	<string>Asia/Tokyo</string>
 	<key>Kazan, Russia</key>
@@ -555,11 +555,11 @@
 	<key>Kemi, Finland</key>
 	<string>Europe/Istanbul</string>
 	<key>Kendari, South East Sulawesi, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0800</string>
 	<key>Khartoum, Sudan</key>
 	<string>Africa/Addis_Ababa</string>
 	<key>Khatanga, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Khon Kaen, Thailand</key>
 	<string>Asia/Bangkok</string>
 	<key>Kigali, Rwanda</key>
@@ -573,7 +573,7 @@
 	<key>Kinshasa, Congo Dem.Rep.</key>
 	<string>Africa/Lagos</string>
 	<key>Kiritimati, Christmas Island, Kiribati</key>
-	<string>GMT</string>
+	<string>GMT+1400</string>
 	<key>Kitakyushu, Japan</key>
 	<string>Asia/Tokyo</string>
 	<key>Kobe, Japan</key>
@@ -583,9 +583,9 @@
 	<key>Kowloon, Hong Kong</key>
 	<string>Asia/Hong_Kong</string>
 	<key>Krasnoyarsk, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Kuala Lumpur, Malaysia</key>
-	<string>GMT</string>
+	<string>GMT+0800</string>
 	<key>Kumamoto, Japan</key>
 	<string>Asia/Tokyo</string>
 	<key>Kunming, Yunnan, China</key>
@@ -601,7 +601,7 @@
 	<key>Kãnpur, Uttar Pradesh, India</key>
 	<string>Asia/Calcutta</string>
 	<key>La Paz, Bolivia</key>
-	<string>GMT</string>
+	<string>GMT-0400</string>
 	<key>Lagos, Nigeria</key>
 	<string>Africa/Lagos</string>
 	<key>Lahore, Pakistan</key>
@@ -673,29 +673,29 @@
 	<key>Madurai, Tamil Nadu, India</key>
 	<string>Asia/Calcutta</string>
 	<key>Magadan, Russia</key>
-	<string>GMT</string>
+	<string>GMT+1000</string>
 	<key>Majuro, Marshall Islands</key>
-	<string>GMT</string>
+	<string>GMT+1200</string>
 	<key>Makassar, South Sulawesi, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0800</string>
 	<key>Makkah, Saudi Arabia</key>
 	<string>America/Halifax</string>
 	<key>Malabo, Equatorial Guinea</key>
 	<string>Africa/Lagos</string>
 	<key>Malang, Java, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Male, Maldives</key>
-	<string>GMT</string>
+	<string>GMT+0500</string>
 	<key>Manado, North Sulawesi, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0800</string>
 	<key>Managua, Nicaragua</key>
 	<string>America/Chicago</string>
 	<key>Manama, Bahrain</key>
 	<string>America/Halifax</string>
 	<key>Manaus, Amazonas, Brazil</key>
-	<string>GMT</string>
+	<string>GMT+0400</string>
 	<key>Mandalay, Myanmar</key>
-	<string>GMT</string>
+	<string>GMT+0630</string>
 	<key>Manila, Philippines</key>
 	<string>Asia/Manila</string>
 	<key>Manokwari, West Papua, Indonesia</key>
@@ -707,23 +707,23 @@
 	<key>Marrakech, Morocco</key>
 	<string>Europe/Lisbon</string>
 	<key>Maseru, Lesotho</key>
-	<string>GMT</string>
+	<string>GMT+0200</string>
 	<key>Matsuyama, Japan</key>
 	<string>Asia/Tokyo</string>
 	<key>Mazatlan, Sinaloa, Mexico</key>
 	<string>America/Denver</string>
 	<key>Mbabane, Swaziland</key>
-	<string>GMT</string>
+	<string>GMT+0200</string>
 	<key>Medan, North Sumatra, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Medellin, Colombia</key>
 	<string>America/Bogota</string>
 	<key>Medina, Saudi Arabia</key>
 	<string>America/Halifax</string>
 	<key>Melbourne, Victoria, Australia</key>
-	<string>GMT</string>
+	<string>GMT+1100</string>
 	<key>Melekeok, Palau</key>
-	<string>GMT</string>
+	<string>GMT+0900</string>
 	<key>Memphis, Tennessee, U.S.A.</key>
 	<string>America/Chicago</string>
 	<key>Mendoza, Mendoza, Argentina</key>
@@ -739,7 +739,7 @@
 	<key>Midland, Texas, U.S.A.</key>
 	<string>America/Chicago</string>
 	<key>Midway, Midway Atoll, U.S.A.</key>
-	<string>GMT</string>
+	<string>GMT-1100</string>
 	<key>Milan, Italy</key>
 	<string>Europe/Paris</string>
 	<key>Milwaukee, Wisconsin, U.S.A.</key>
@@ -747,7 +747,7 @@
 	<key>Minneapolis, Minnesota, U.S.A.</key>
 	<string>America/Chicago</string>
 	<key>Minsk, Belarus</key>
-	<string>GMT</string>
+	<string>GMT+0300</string>
 	<key>Mississauga, Ontario, Canada</key>
 	<string>America/New_York</string>
 	<key>Mogadishu, Somalia</key>
@@ -757,7 +757,7 @@
 	<key>Monrovia, Liberia</key>
 	<string>GMT</string>
 	<key>Montevideo, Uruguay</key>
-	<string>GMT</string>
+	<string>GMT-0200</string>
 	<key>Montgomery, Alabama, U.S.A.</key>
 	<string>America/Chicago</string>
 	<key>Montpelier, Vermont, U.S.A.</key>
@@ -797,7 +797,7 @@
 	<key>Nassau, Bahamas</key>
 	<string>America/New_York</string>
 	<key>Naypyidaw, Myanmar</key>
-	<string>GMT</string>
+	<string>GMT+0630</string>
 	<key>Ndjamena, Chad</key>
 	<string>Africa/Lagos</string>
 	<key>New Delhi, Delhi, India</key>
@@ -819,19 +819,19 @@
 	<key>Nizhny Novgorod, Russia</key>
 	<string>Europe/Moscow</string>
 	<key>Norilsk, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Nouakchott, Mauritania</key>
 	<string>GMT</string>
 	<key>Noumea, New Caledonia, New Caledonia</key>
-	<string>GMT</string>
+	<string>GMT+1100</string>
 	<key>Novgorod, Russia</key>
 	<string>Europe/Moscow</string>
 	<key>Novosibirsk, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0600</string>
 	<key>Nukualofa, Tonga</key>
-	<string>GMT</string>
+	<string>GMT+1300</string>
 	<key>Nuuk, Greenland</key>
-	<string>GMT</string>
+	<string>GMT-0300</string>
 	<key>Nãgpur, Maharashtra, India</key>
 	<string>Asia/Calcutta</string>
 	<key>Oakland, California, U.S.A.</key>
@@ -841,9 +841,9 @@
 	<key>Oklahoma City, Oklahoma, U.S.A.</key>
 	<string>America/Chicago</string>
 	<key>Omsk, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0600</string>
 	<key>Oral, Kazakhstan</key>
-	<string>GMT</string>
+	<string>GMT+0500</string>
 	<key>Orlando, Florida, U.S.A.</key>
 	<string>America/New_York</string>
 	<key>Osaka, Japan</key>
@@ -855,21 +855,21 @@
 	<key>Ouagadougou, Burkina Faso</key>
 	<string>GMT</string>
 	<key>Palangka Raya, Central Kalimantan, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Palembang, South Sumatra, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Palikir, Ponape, Micronesia</key>
-	<string>GMT</string>
+	<string>GMT+1100</string>
 	<key>Palma, Majorca, Spain</key>
 	<string>Europe/Paris</string>
 	<key>Palu, Central Sulawesi, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0800</string>
 	<key>Panama, Panama</key>
 	<string>America/New_York</string>
 	<key>Papeete, Tahiti, French Polynesia</key>
-	<string>GMT</string>
+	<string>GMT-1000</string>
 	<key>Paramaribo, Suriname</key>
-	<string>GMT</string>
+	<string>GMT-0300</string>
 	<key>Paris, France</key>
 	<string>Europe/Paris</string>
 	<key>Patna, Bihar, India</key>
@@ -877,13 +877,13 @@
 	<key>Pensacola, Florida, U.S.A.</key>
 	<string>America/Chicago</string>
 	<key>Perm, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0500</string>
 	<key>Perth, Western Australia, Australia</key>
-	<string>GMT</string>
+	<string>GMT+0800</string>
 	<key>Petersburg, Saint, Russia</key>
 	<string>Europe/Moscow</string>
 	<key>Pevek, Russia</key>
-	<string>GMT</string>
+	<string>GMT+1200</string>
 	<key>Philadelphia, Pennsylvania, U.S.A.</key>
 	<string>America/New_York</string>
 	<key>Phnom Penh, Cambodia</key>
@@ -895,19 +895,19 @@
 	<key>Podgorica, Montenegro</key>
 	<string>Europe/Paris</string>
 	<key>Polokwane, South Africa</key>
-	<string>GMT</string>
+	<string>GMT+0200</string>
 	<key>Pond Inlet, Nunavut Territory, Canada</key>
 	<string>America/New_York</string>
 	<key>Ponta Delgada, Azores, Portugal</key>
-	<string>GMT</string>
+	<string>GMT-0100</string>
 	<key>Pontianak, West Kalimantan, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Port Louis, Mauritius</key>
-	<string>GMT</string>
+	<string>GMT+0400</string>
 	<key>Port Moresby, Papua New Guinea</key>
-	<string>GMT</string>
+	<string>GMT+1000</string>
 	<key>Port Vila, Vanuatu</key>
-	<string>GMT</string>
+	<string>GMT+1100</string>
 	<key>Port of Spain, Trinidad and Tobago</key>
 	<string>America/Halifax</string>
 	<key>Portland, Oregon, U.S.A.</key>
@@ -919,9 +919,9 @@
 	<key>Prague, Czech Republic</key>
 	<string>Europe/Paris</string>
 	<key>Praia, Cabo Verde</key>
-	<string>GMT</string>
+	<string>GMT-0100</string>
 	<key>Pretoria, South Africa</key>
-	<string>GMT</string>
+	<string>GMT+0200</string>
 	<key>Prince, au, Port, Haiti</key>
 	<string>America/New_York</string>
 	<key>Pristina, Kosovo</key>
@@ -937,13 +937,13 @@
 	<key>Pyongyang, North Korea</key>
 	<string>Asia/Seoul</string>
 	<key>Qaanaaq, Greenland</key>
-	<string>GMT</string>
+	<string>GMT-0300</string>
 	<key>Qiqihar, Heilongjiang, China</key>
 	<string>America/Chicago</string>
 	<key>Quezon, Philippines</key>
 	<string>Asia/Manila</string>
 	<key>Quito, Ecuador</key>
-	<string>GMT</string>
+	<string>GMT-0500</string>
 	<key>Québec, Quebec, Canada</key>
 	<string>America/New_York</string>
 	<key>Rabat, Morocco</key>
@@ -953,7 +953,7 @@
 	<key>Rapid City, South Dakota, U.S.A.</key>
 	<string>America/Denver</string>
 	<key>Rarotonga, Cook Islands</key>
-	<string>GMT</string>
+	<string>GMT-1000</string>
 	<key>Rasht, Iran</key>
 	<string>Asia/Tehran</string>
 	<key>Rawalpindi, Pakistan</key>
@@ -971,7 +971,7 @@
 	<key>Riga, Latvia</key>
 	<string>Europe/Istanbul</string>
 	<key>Rio Branco, Acre, Brazil</key>
-	<string>GMT</string>
+	<string>GMT-0500</string>
 	<key>Rio de Janeiro, Rio de Janeiro, Brazil</key>
 	<string>America/Sao_Paulo</string>
 	<key>Riyadh, Saudi Arabia</key>
@@ -987,7 +987,7 @@
 	<key>Rovaniemi, Finland</key>
 	<string>Europe/Istanbul</string>
 	<key>Rustenburg, South Africa</key>
-	<string>GMT</string>
+	<string>GMT+0200</string>
 	<key>Ryazan, Russia</key>
 	<string>Europe/Moscow</string>
 	<key>Sablon, Blanc, Quebec, Canada</key>
@@ -1003,7 +1003,7 @@
 	<key>Saint John, New Brunswick, Canada</key>
 	<string>America/Halifax</string>
 	<key>Sakhalinsk, Yuzhno, Russia</key>
-	<string>GMT</string>
+	<string>GMT+1000</string>
 	<key>Salem, Oregon, U.S.A.</key>
 	<string>America/Los_Angeles</string>
 	<key>Salt Lake City, Utah, U.S.A.</key>
@@ -1013,7 +1013,7 @@
 	<key>Salzburg, Salzburg, Austria</key>
 	<string>Europe/Paris</string>
 	<key>Samara, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0400</string>
 	<key>San Diego, California, U.S.A.</key>
 	<string>America/Los_Angeles</string>
 	<key>San Francisco, California, U.S.A.</key>
@@ -1049,7 +1049,7 @@
 	<key>Seattle, Washington, U.S.A.</key>
 	<string>America/Los_Angeles</string>
 	<key>Semarang, Central Java, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Seoul, South Korea</key>
 	<string>Asia/Seoul</string>
 	<key>Shanghai, Shanghai Municipality, China</key>
@@ -1077,33 +1077,33 @@
 	<key>Sofia, Bulgaria</key>
 	<string>Europe/Istanbul</string>
 	<key>Srednekolymsk, Russia</key>
-	<string>GMT</string>
+	<string>GMT+1100</string>
 	<key>Sri Jayawardenapura Kotte, Sri Lanka</key>
 	<string>Asia/Calcutta</string>
 	<key>St. John's, Newfoundland and Labrador, Canada</key>
-	<string>GMT</string>
+	<string>GMT-0330</string>
 	<key>St. Louis, Missouri, U.S.A.</key>
 	<string>America/Chicago</string>
 	<key>St. Paul, Minnesota, U.S.A.</key>
 	<string>America/Chicago</string>
 	<key>Stanley, Falkland Islands</key>
-	<string>GMT</string>
+	<string>GMT-0300</string>
 	<key>Stockholm, Sweden</key>
 	<string>Europe/Paris</string>
 	<key>Sucre, Bolivia</key>
-	<string>GMT</string>
+	<string>GMT-0400</string>
 	<key>Surabaya, East Java, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Surakarta, Java, Indonesia</key>
-	<string>GMT</string>
+	<string>GMT+0700</string>
 	<key>Surat, Gujarat, India</key>
 	<string>Asia/Calcutta</string>
 	<key>Suva, Fiji</key>
-	<string>GMT</string>
+	<string>GMT+1300</string>
 	<key>Suzhou, Jiangsu, China</key>
 	<string>America/Chicago</string>
 	<key>Sydney, New South Wales, Australia</key>
-	<string>GMT</string>
+	<string>GMT+1100</string>
 	<key>São Paulo, São Paulo, Brazil</key>
 	<string>America/Sao_Paulo</string>
 	<key>São Tomé, Sao Tome and Principe</key>
@@ -1121,11 +1121,11 @@
 	<key>Tangshan, Hebei, China</key>
 	<string>America/Chicago</string>
 	<key>Tarawa, Kiribati</key>
-	<string>GMT</string>
+	<string>GMT+1200</string>
 	<key>Tashkent, Uzbekistan</key>
-	<string>GMT</string>
+	<string>GMT+0500</string>
 	<key>Tbilisi, Georgia</key>
-	<string>GMT</string>
+	<string>GMT+0400</string>
 	<key>Tegucigalpa, Honduras</key>
 	<string>America/Chicago</string>
 	<key>Tehran, Iran</key>
@@ -1135,7 +1135,7 @@
 	<key>Terre, Basse, Guadeloupe</key>
 	<string>America/Halifax</string>
 	<key>Thimphu, Bhutan</key>
-	<string>GMT</string>
+	<string>GMT+0600</string>
 	<key>Thiruvananthapuram, Kerala, India</key>
 	<string>Asia/Calcutta</string>
 	<key>Thule Air Base, Greenland</key>
@@ -1145,7 +1145,7 @@
 	<key>Tijuana, Baja California, Mexico</key>
 	<string>America/Los_Angeles</string>
 	<key>Tiksi, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0900</string>
 	<key>Tirana, Albania</key>
 	<string>Europe/Paris</string>
 	<key>Tokyo, Japan</key>
@@ -1171,9 +1171,9 @@
 	<key>Tórshavn, Faroe Islands, Faroe Islands</key>
 	<string>Europe/Lisbon</string>
 	<key>Ufa, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0500</string>
 	<key>Ulaanbaatar, Mongolia</key>
-	<string>GMT</string>
+	<string>GMT+0800</string>
 	<key>Unalaska, Alaska, U.S.A.</key>
 	<string>America/Juneau</string>
 	<key>Utsunomiya, Japan</key>
@@ -1193,9 +1193,9 @@
 	<key>Veracruz, Veracruz, Mexico</key>
 	<string>America/Chicago</string>
 	<key>Verkhoyansk, Russia</key>
-	<string>GMT</string>
+	<string>GMT+1000</string>
 	<key>Victoria, Seychelles</key>
-	<string>GMT</string>
+	<string>GMT+0400</string>
 	<key>Vienna, Vienna, Austria</key>
 	<string>Europe/Paris</string>
 	<key>Vientiane, Laos</key>
@@ -1207,7 +1207,7 @@
 	<key>Visakhapatnam, Andhra Pradesh, India</key>
 	<string>Asia/Calcutta</string>
 	<key>Vladivostok, Russia</key>
-	<string>GMT</string>
+	<string>GMT+1000</string>
 	<key>Warsaw, Poland</key>
 	<string>Europe/Paris</string>
 	<key>Washington DC, District of Columbia, U.S.A.</key>
@@ -1219,7 +1219,7 @@
 	<key>Wichita, Kansas, U.S.A.</key>
 	<string>America/Chicago</string>
 	<key>Windhoek, Namibia</key>
-	<string>GMT</string>
+	<string>GMT+0200</string>
 	<key>Winnipeg, Manitoba, Canada</key>
 	<string>America/Chicago</string>
 	<key>Wuhan, Hubei, China</key>
@@ -1229,21 +1229,21 @@
 	<key>Xinyang, Henan, China</key>
 	<string>America/Chicago</string>
 	<key>Yakutsk, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0900</string>
 	<key>Yamoussoukro, Cote d'Ivoire (Ivory Coast)</key>
 	<string>GMT</string>
 	<key>Yangon, Myanmar</key>
-	<string>GMT</string>
+	<string>GMT+0630</string>
 	<key>Yaoundé, Cameroon</key>
 	<string>Africa/Lagos</string>
 	<key>Yaren, Nauru</key>
-	<string>GMT</string>
+	<string>GMT+1200</string>
 	<key>Yekaterinburg, Russia</key>
-	<string>GMT</string>
+	<string>GMT+0500</string>
 	<key>Yellowknife, Northwest Territories, Canada</key>
 	<string>America/Denver</string>
 	<key>Yerevan, Armenia</key>
-	<string>GMT</string>
+	<string>GMT+0400</string>
 	<key>Yokohama, Japan</key>
 	<string>Asia/Tokyo</string>
 	<key>Zagreb, Croatia</key>
