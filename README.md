@@ -1,7 +1,7 @@
 Timezones-Property-List
 =======================
 
-Property List (plist) files that contain mapping from city names to timezones for use in iOS or Mac application.
+Property List (plist) files that contain mapping from city names to timezones for use in iOS or Mac application. Number of entries: 626.
 
 There are two files you can use:
 
